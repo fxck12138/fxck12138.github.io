@@ -8,7 +8,7 @@ cover: 'http://static.runoob.com/images/mix/life-code-typography-hd-wallpaper-19
 tags: hacker 网络安全 python3
 ---
 ![python](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1562858536903&di=81acb5f2caf923d607a7b3c394f7f3f9&imgtype=0&src=http%3A%2F%2Fdesigndrizzle.com%2Fwp-content%2Fuploads%2Fpython2.jpg)
-Python是一种计算机程序设计语言。你可能已经听说过很多种流行的编程语言，比如非常难学的C语言，非常流行的Java语言，适合初学者的Basic语言，适合网页编程的JavaScript语言等等。
+>Python是一种计算机程序设计语言。你可能已经听说过很多种流行的编程语言，比如非常难学的C语言，非常流行的Java语言，适合初学者的Basic语言，适合网页编程的JavaScript语言等等。
 
 那Python是一种什么语言？
 
@@ -29,12 +29,12 @@ Python是一种计算机程序设计语言。你可能已经听说过很多种�
 Python当然也有不能干的事情，比如写操作系统，这个只能用C语言写；写手机应用，只能用Swift/Objective-C（针对iPhone）和Java（针对Android）；写3D游戏，最好用C或C++。
 
 如果你是小白用户，满足以下条件：
-
+![](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1241145725,2924488936&fm=26&gp=0.jpg)
 会使用电脑，但从来没写过程序；
 还记得初中数学学的方程式和一点点代数知识；
 想从编程小白变成专业的软件架构师；
 每天能抽出半个小时学习。
 持之以恒
 
-推荐一个学习编程的网站：https://www.runoob.com/
+>推荐一个学习编程的网站：https://www.runoob.com/
 

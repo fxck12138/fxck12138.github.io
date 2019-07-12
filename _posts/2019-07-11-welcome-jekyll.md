@@ -8,6 +8,7 @@ cover: 'https://grepitout.com/wp-content/uploads/2017/08/toxic2.jpg'
 tags: hacker 网络安全 termux
 ---
 # Welcome
+![](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2286213601,2499395723&fm=26&gp=0.jpg)
 无聊用termux搭建个博客玩玩，发现是真的累。
 ![python3](https://www.runoob.com/wp-content/uploads/2014/05/python3.png)
 人生苦短，我用Python
