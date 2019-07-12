@@ -97,7 +97,7 @@
       </div>
       {% endif %}
     </section>
-    {% if site.comment_gitment_repo %}
+   {% if site.comment_gitment_repo %}
 <div id="gitmentContainer"></div>
 <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
 <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
@@ -112,6 +112,7 @@
         },
     });
     gitment.render('gitmentContainer')
+     </section>
 </script>
 {% endif %}
     {% if site.comments.disqus %}
