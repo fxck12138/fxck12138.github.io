@@ -2,25 +2,25 @@
 layout: post
 title: 'life'
 subtitle: '生活就是这样'
-date: 2019-07-11
+date: 2019-07-12
 categories: 生活
 cover: 'http://static.runoob.com/images/mix/UgY18DW.jpg'
 tags: 日常 哲理
 ---
->Easy come, easy go.
+Easy come, easy go.
 易得者亦易失。
 
->The darkest hour is that before the dawn.
+The darkest hour is that before the dawn.
 黎明前的时分是最黑暗的。
 
->The longest day has an end.
+The longest day has an end.
 最难过的日子也有尽头。
 
->Living without an aim is like sailing without a compass.
+Living without an aim is like sailing without a compass.
 生活而无目标，犹如航海之无指南针。
 
->Victory won’t come to me unless I go to it.
+Victory won’t come to me unless I go to it.
 胜利是不会向我走来的，我必须自己走向胜利。
 
->You have to believe in yourself. That’s the secret of success.
+You have to believe in yourself. That’s the secret of success.
 人必须相信自己，这是成功的秘诀。
