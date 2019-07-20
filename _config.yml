@@ -37,12 +37,9 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: true
   disqus_url: 'https://fxck.disqus.com/embed.js'
-  #gitment
-  comment_gitment_repo: fxck12138.github.io
-  comment_gitment_clientId: d6a4550da61c25f9a416
-  comment_gitment_clientSecret: 19091fae42aa47649fa008bdeed3eabaf47f102a
+ 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
 
