@@ -7,7 +7,6 @@ categories: 生活
 cover: 'http://static.runoob.com/images/mix/UgY18DW.jpg'
 tags: 日常 哲理
 ---
-
 The darkest hour is that before the dawn.
 黎明前的时分是最黑暗的。
 
