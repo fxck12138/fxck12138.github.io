@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'life'
-subtitle: '生活就是这样'
+subtitle: '人生就应该如此'
 date: 2019-07-12
 categories: 生活
 cover: 'http://static.runoob.com/images/mix/UgY18DW.jpg'
