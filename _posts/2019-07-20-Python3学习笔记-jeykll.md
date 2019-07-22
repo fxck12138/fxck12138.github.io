@@ -35,7 +35,6 @@ Python中单行注释以 # 开头
  """ 
 print ("Hello, Python!")
 ```
- ![](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=647969196,2936988138&fm=26&gp=0.jpg)
  
 > **行与缩进**
 
@@ -78,5 +77,3 @@ paragraph = """这是一个段落，
 空行与代码缩进不同，空行并不是Python语法的一部分。书写时不插入空行，Python解释器运行也不会出错。但是空行的作用在于分隔两段不同功能或含义的代码，便于日后代码的维护或重构。
 记住：空行也是程序代码的一部分。
  
-
-![滑稽](https://www.bing.com/th?id=OGC.ec2a1a052d7a88e56d117330f5f72db4&pid=1.7&rurl=https%3a%2f%2fws4.sinaimg.cn%2fbmiddle%2f9150e4e5gy1fqzq2m4tz6g20a00a07wi.gif)
