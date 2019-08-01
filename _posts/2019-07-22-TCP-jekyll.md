@@ -3,9 +3,9 @@ layout: post
 title: 'TCP/IP学习笔记'
 subtitle: 'TCP/IP协议'
 date: 2019-07-22
-categories: 技术
+categories: 网络原理
 cover: 'https://grepitout.com/wp-content/uploads/2017/08/toxic2.jpg'
-tags: hacker 网络安全
+tags: 网络通信
 ---
 > ***什么是TCP/IP？***
 
