@@ -4,7 +4,6 @@ title: 'Python3学习'
 subtitle: 'Python3'
 date: 2019-07-20
 categories: 编程
-cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1562932597821&di=1d31e6c065c9ed689e7f37e530d307f4&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0138495b65d2e8a801215c8f05ec83.jpg%401280w_1l_2o_100sh.jpg'
 tags: Python3
 ---
 ![](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1179406842,2804315616&fm=26&gp=0.jpg)
