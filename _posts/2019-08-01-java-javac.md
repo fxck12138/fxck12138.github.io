@@ -4,7 +4,6 @@ title: 'Java学习笔记'
 subtitle: 'Java'
 date: 2019-08-01
 categories: 编程
-cover: 'https://img.mp.sohu.com/upload/20170729/14f0d4655dab48468bc816790ed509a0_th.png'
 tags: java
 ---
 
