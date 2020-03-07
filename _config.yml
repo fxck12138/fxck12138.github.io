@@ -2,7 +2,7 @@
 title: 'Fxck'
 description: '热爱Web安全有关，欢迎关注我的博客'
 keyword: 'Fxck'
-url: 'https://fxck12138.github.io' # your host
+url: 'https://fxck1024.top' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -57,7 +57,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   zhihu: '//www.zhihu.com/people/69da80f776a6cf12a21fa3ebe6812a26'
-  github: '//github.com/Fxck1024'
+  github: '//github.com/Fxck12138'
   
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
